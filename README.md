@@ -1,13 +1,12 @@
 # Nw2esper
 
 Prerequisite:
-  - need python 3 (unless you use the EXE)
-  - download from https://www.python.org/downloads/
+  - need python 3 (unless you use the EXE) download from https://www.python.org/downloads/
   - check the box "show debug information" from the settings dropdown in the top right corner of the investigation screen in NetWitness.
 
 Directions:
   - Run application [Download](https://github.com/trevormiller6/nw2esper/blob/master/Nw2esper.exe)
-  - copy query from SIEM. This is important as you need the time range. (If you dont see the query as pictured below, see bullet 3 in Prerequisite)
+  - copy query from SIEM. This is important as you need the time range. (If you dont see the query as pictured below, see bullet 2 in Prerequisite)
 
 ![IMAGE](https://community.rsa.com/servlet/JiveServlet/downloadImage/2-899003-352385/770-275/investigation.png)
 
